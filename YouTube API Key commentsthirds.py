@@ -4,7 +4,7 @@ import json
 # 設定在Goolge Cloud申請的API金鑰和YouTube影片ID
 # 這邊用甄嬛傳第63集滴血驗親來當示範，影片ID記得點選右鍵影片資訊就可以看到
 
-api_key = "AIzaSyByF6bH5zI9SRTr26Pg-6PLqM8dgNn2LRA" # 這邊以自己的API KEY
+api_key = "YouTube_API_KEY" # 這邊以自己的API KEY
 video_id = "ITuTTA1PpoA"
 
 # 設定請求的URL
