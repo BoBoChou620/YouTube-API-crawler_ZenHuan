@@ -72,8 +72,8 @@ def get_comment_info(data, comments):
                 comments.append(reply_info)
 
 # 設定在Google Cloud申請的API金鑰和YouTube影片ID
-api_key = "AIzaSyByF6bH5zI9SRTr26Pg-6PLqM8dgNn2LRA"  # 這邊以自己的API KEY
-video_id = "jDQR4ANgXgY"
+api_key = "YouTube_API_KEY"  # 這邊以自己的API KEY
+video_id = "jDQR4ANgXgY" #甄嬛傳第64集Video ID
 
 # 執行函數
 get_comments(video_id, api_key)
